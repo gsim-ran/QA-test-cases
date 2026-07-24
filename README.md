@@ -22,3 +22,32 @@ This repository contains manual test cases created for various web application m
 - Microsoft Excel
 - Microsoft Word
 - Git & GitHub
+
+- ## Repository Structure
+
+```text
+QA-Test-Cases/
+│
+├── Login/
+│   └── Login_Test_Cases.xlsx
+│
+├── Registration/
+│   └── Registration_Test_Cases.xlsx
+│
+├── Forgot Password/
+│   └── Forgot_Password_Test_Cases.xlsx
+│
+├── Shopping Cart/
+│   └── Shopping_Cart_Test_Cases.xlsx
+│
+├── Checkout/
+│   └── Checkout_Test_Cases.xlsx
+│
+└── Test Scenarios/
+    └── Test_Scenarios.xlsx
+```
+
+## Author
+
+**Simran Giri**  
+Aspiring Software Quality Assurance Engineer
